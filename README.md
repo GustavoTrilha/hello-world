@@ -3,4 +3,4 @@ The first repository
 
 Hi,
 
-I'm beginner in programmng and I'm stating my learning in Python.
+I'm beginner in programmng and I'm starting my learning in Python.
